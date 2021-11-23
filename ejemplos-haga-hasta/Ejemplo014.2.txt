@@ -1,0 +1,28 @@
+// Generar un programa que presente en pantalla
+// el valor de la variable suma.
+
+1. Inicio
+2. valor_entrada, i[0, n]
+3. suma, i[0, n]
+4. salida, x(10)[{a-z}]
+5. suma <-- 0
+6   Escribir "Escriba "si" para no hacer el proceso"
+7.    Leer salida
+8. mientras salida !="si" entonces
+9.  Escribir "Ingrese un número por teclado"
+10.    Leer valor_entrada
+11.     suma <-- suma + valor_entrada 0+4=4//4+4=8
+12  Escribir "Escriba si para salir del proceso"
+13.    Leer salida
+14. Fin Mientras 
+15. Escribir suma
+16. Fin
+// teclado
+
+no
+4
+no
+4
+si
+// pantalla
+8
